@@ -6,10 +6,9 @@ For Browser User
 4. Ctrl + F to find and search "[_0x86f480(0x25b2)]"
 5. click the pointbreak any resources look for Local > this: > _data: > reward: > 0:
 6. Change the value of 
-  a. amount: "#"
-  b. key: "Name of item"
-
-8. Deacitve the pointbreak and unpause
+7. amount: "#"
+8. key: "Name of item"
+9. Deacitve the pointbreak and unpause
 
 FACEBOOK LINE CODE
 
