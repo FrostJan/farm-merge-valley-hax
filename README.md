@@ -8,7 +8,8 @@ For Browser User
 6. 
 amount: "#"
 key: "Name of item"
-7. Deacitve the pointbreak and unpause
+
+8. Deacitve the pointbreak and unpause
 
 FACEBOOK LINE CODE
 
