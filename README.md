@@ -5,9 +5,9 @@ For Browser User
 3. Look the Game folder and click the main.######.js
 4. Ctrl + F to find and search "[_0x86f480(0x25b2)]"
 5. click the pointbreak any resources look for Local > this: > _data: > reward: > 0:
-6. 
-amount: "#"
-key: "Name of item"
+6. Change the value of 
+  a. amount: "#"
+  b. key: "Name of item"
 
 8. Deacitve the pointbreak and unpause
 
